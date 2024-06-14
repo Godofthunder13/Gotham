@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Fujifilm X-T5 40MP mirrorless Camera",
+    "price": 206799,
+    "description": "Fujifilm X-T5 40MP APS-C X-Trans Sensor|Pixel Shift|IBIS System|Ultra high Resolution mirrorless Camera|6k 30p|1/180000 Shutter Speed|Quick Lever for Photo/Video with XF 16-80mm f/1:4 Lens -Silver",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      },
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Mirroless camera",
+    "seller": "SONY",
+    "stock": 5
+  },
+  {
+    "name": "DJI RSC 2 3-Axis Gimbal Stabilizer for DSLR",
+    "price": 36190,
+    "description": "DJI RSC 2 3-Axis Gimbal Stabilizer for DSLR and Mirrorless Camera, Nikon Sony Panasonic Canon Fujifilm, 3kg Payload, Vertical Shooting, OLED Screen, Black.",
+    "ratings": 3.5,
+    "images": [
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "DJI",
+    "stock": 9
+  },
+  {
+    "name": "Sony E Mount Fe 200 600Mm Full-Frame Lens",
+    "price": 154890,
+    "description": "Sony E Mount Fe 200 600Mm F5.6 6.3 G OSS Full-Frame Lens (Sel200600G) | Super-Telephoto Zoom | for Wildlife Photography, White",
+    "ratings": 2,
+    "images": [
+      {
+        "image": "/images/products/3.jpg"
+      }
+    ],
+    "category": "LENS",
+    "seller": "SONY",
+    "stock": 9
+  },
+  {
+    "name": "Canon RF 100-400mm lens",
+    "price": 2550.45,
+    "description": "Canon RF 100-400mm f/5.6-8 is USM Mirrorless Tele Photo Zoom Lens (Black)",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/6.jpg"
+      }
+    ],
+    "category": "LENS",
+    "seller": "CANON",
+    "stock": 9
+  },
+  {
+    "name": "K&F Concept 62mm ND Filter",
+    "price": 76.32,
+    "description": "K&F Concept 62mm Variable Neutral Density ND8-ND2000 ND Filter for Camera Lenses with Multi-Resistant Coating, Waterproof",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/7.jpg"
+      }
+    ],
+    "category": "FILTERS",
+    "seller": "K&F CONCEPT",
+    "stock": 9
+  },
+  {
+    "name": "Sony Alpha ILCE-7M3K Full-Frame Mirrorless Digital SLR Camera",
+    "price": 1500.46,
+    "description": "Sony Alpha ILCE-7M3K Full-Frame 24.2MP Mirrorless Digital SLR Camera with 28-70mm Zoom Lens | 4K Full Frame | Real-Time Eye Auto Focus | Tiltable LCD, Low Light Camera - Black",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/4.jpg"
+      }
+    ],
+    "category": "MIROLESS CAMERA",
+    "seller": "SONY",
+    "stock": 4
+  },
+  {
+    "name": "V-RAPTOR [X]",
+    "price": 5000.12,
+    "description": "RED DIGITAL CINEMA V-RAPTOR 8K VV DSMC3 Cinema Camera (Canon RF)",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "/images/products/5.jpg"
+      }
+    ],
+    "category": "CINEMA CAMERA",
+    "seller": "RED",
+    "stock": 6
+  }
+]
